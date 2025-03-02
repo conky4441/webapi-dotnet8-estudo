@@ -37,5 +37,20 @@ namespace WebApi8.Controllers
             var autor = await _autorInterface.CriarAutor(autorCriacaoDto);
             return Ok(autor);
         }
+
+        [HttpDelete("ExcluirAutor")]
+        public async Task<ActionResult<ResponseModel<List<AutorModel>>>> ExcluirAutor(int idAutor)
+        {
+            var autor = await _autorInterface.ExcluirAutor(idAutor);
+            return Ok(autor);
+        }
+
+        [HttpPut("EditarAutor")]
+        public async Task<ActionResult<ResponseModel<List<AutorModel>>>> EditarAutor(EditarAutorDto autorDto)
+        {
+            var autor = await _autorInterface.EditarAutor(autorDto);
+            return Ok(autor);
+        }
+
     }
 }

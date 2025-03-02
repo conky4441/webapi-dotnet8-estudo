@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using System.Collections.Generic;
 using WebApi8.Data;
 using WebApi8.Dto.Autor;
 using WebApi8.Models;
@@ -62,6 +63,62 @@ namespace WebApi8.Services.Autor
                 
             }
             catch(Exception e)
+            {
+                resposta.Mensagem = e.Message;
+                resposta.Status = false;
+                return resposta;
+            }
+        }
+
+        public async Task<ResponseModel<List<AutorModel>>> EditarAutor(EditarAutorDto editarAutorDto)
+        {
+            ResponseModel<List<AutorModel>> resposta = new ResponseModel<List<AutorModel>>();
+            try
+            {
+                var autor = await _context.Autores.FirstOrDefaultAsync(autor => autor.Id == editarAutorDto.Id);
+                if(autor == null)
+                {
+                    resposta.Mensagem = "Nenhum autor encontrado.";
+                    return resposta;
+                }
+
+                autor.Nome = editarAutorDto.Nome;
+                autor.Sobrenome = editarAutorDto.Sobrenome;
+
+                _context.Update(autor);
+                await _context.SaveChangesAsync();
+                resposta.Dados = await _context.Autores.ToListAsync();
+                resposta.Mensagem = "Autor atualizado com sucesso.";
+                return resposta;
+            }
+            catch (Exception e)
+            {
+                resposta.Mensagem = e.Message;
+                resposta.Status = false;
+                return resposta;
+            }
+        }
+
+        public async Task<ResponseModel<List<AutorModel>>> ExcluirAutor(int idAutor)
+        {
+            ResponseModel<List<AutorModel>> resposta = new ResponseModel<List<AutorModel>>();
+            try
+            {
+                var autor = await _context.Autores.FirstOrDefaultAsync(autor => autor.Id == idAutor);
+                if(autor == null)
+                {
+                    resposta.Mensagem = "Autor não encontrado.";
+                    return resposta;
+                }
+                _context.Remove(autor);
+                await _context.SaveChangesAsync();
+
+                resposta.Dados = await _context.Autores.ToListAsync();
+                resposta.Mensagem = "Autor removido com sucesso";
+                return resposta;
+
+
+            }catch(Exception e)
             {
                 resposta.Mensagem = e.Message;
                 resposta.Status = false;
