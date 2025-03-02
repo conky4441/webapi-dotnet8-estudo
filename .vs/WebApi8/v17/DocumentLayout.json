@@ -7,16 +7,20 @@
       "RelativeMoniker": "D:0:0:{1367DD2D-9769-4464-AAFD-BE7E178909AC}|WebApi8.csproj|solutionrelative:controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1367DD2D-9769-4464-AAFD-BE7E178909AC}|WebApi8.csproj|d:\\portifolio\\projetos c#\\aulas\\webapi8\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1367DD2D-9769-4464-AAFD-BE7E178909AC}|WebApi8.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1367DD2D-9769-4464-AAFD-BE7E178909AC}|WebApi8.csproj|d:\\portifolio\\projetos c#\\aulas\\webapi8\\services\\autor\\autorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1367DD2D-9769-4464-AAFD-BE7E178909AC}|WebApi8.csproj|solutionrelative:services\\autor\\autorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1367DD2D-9769-4464-AAFD-BE7E178909AC}|WebApi8.csproj|d:\\portifolio\\projetos c#\\aulas\\webapi8\\services\\autor\\iautorinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1367DD2D-9769-4464-AAFD-BE7E178909AC}|WebApi8.csproj|solutionrelative:services\\autor\\iautorinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1367DD2D-9769-4464-AAFD-BE7E178909AC}|WebApi8.csproj|d:\\portifolio\\projetos c#\\aulas\\webapi8\\models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1367DD2D-9769-4464-AAFD-BE7E178909AC}|WebApi8.csproj|solutionrelative:models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1367DD2D-9769-4464-AAFD-BE7E178909AC}|WebApi8.csproj|d:\\portifolio\\projetos c#\\aulas\\webapi8\\models\\autormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1367DD2D-9769-4464-AAFD-BE7E178909AC}|WebApi8.csproj|solutionrelative:models\\autormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,20 +30,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IAutorInterface.cs",
-              "DocumentMoniker": "D:\\Portifolio\\Projetos C#\\Aulas\\WebApi8\\Services\\Autor\\IAutorInterface.cs",
-              "RelativeDocumentMoniker": "Services\\Autor\\IAutorInterface.cs",
-              "ToolTip": "D:\\Portifolio\\Projetos C#\\Aulas\\WebApi8\\Services\\Autor\\IAutorInterface.cs",
-              "RelativeToolTip": "Services\\Autor\\IAutorInterface.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABMAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "AutorModel.cs",
+              "DocumentMoniker": "D:\\Portifolio\\Projetos C#\\Aulas\\WebApi8\\Models\\AutorModel.cs",
+              "RelativeDocumentMoniker": "Models\\AutorModel.cs",
+              "ToolTip": "D:\\Portifolio\\Projetos C#\\Aulas\\WebApi8\\Models\\AutorModel.cs",
+              "RelativeToolTip": "Models\\AutorModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T23:05:07.958Z",
-              "IsPinned": true
+              "WhenOpened": "2025-03-02T18:29:05.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "D:\\Portifolio\\Projetos C#\\Aulas\\WebApi8\\Models\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "Models\\ResponseModel.cs",
+              "ToolTip": "D:\\Portifolio\\Projetos C#\\Aulas\\WebApi8\\Models\\ResponseModel.cs",
+              "RelativeToolTip": "Models\\ResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T18:10:22.496Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -51,41 +68,41 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutorService.cs",
+              "DocumentMoniker": "D:\\Portifolio\\Projetos C#\\Aulas\\WebApi8\\Services\\Autor\\AutorService.cs",
+              "RelativeDocumentMoniker": "Services\\Autor\\AutorService.cs",
+              "ToolTip": "D:\\Portifolio\\Projetos C#\\Aulas\\WebApi8\\Services\\Autor\\AutorService.cs",
+              "RelativeToolTip": "Services\\Autor\\AutorService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAIA1wDgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T23:04:49.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "AutorController.cs",
               "DocumentMoniker": "D:\\Portifolio\\Projetos C#\\Aulas\\WebApi8\\Controllers\\AutorController.cs",
               "RelativeDocumentMoniker": "Controllers\\AutorController.cs",
               "ToolTip": "D:\\Portifolio\\Projetos C#\\Aulas\\WebApi8\\Controllers\\AutorController.cs",
               "RelativeToolTip": "Controllers\\AutorController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAMwBkAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAMwCIAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-01T22:40:16.39Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\Portifolio\\Projetos C#\\Aulas\\WebApi8\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "D:\\Portifolio\\Projetos C#\\Aulas\\WebApi8\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T23:27:21.295Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AutorService.cs",
-              "DocumentMoniker": "D:\\Portifolio\\Projetos C#\\Aulas\\WebApi8\\Services\\Autor\\AutorService.cs",
-              "RelativeDocumentMoniker": "Services\\Autor\\AutorService.cs",
-              "ToolTip": "D:\\Portifolio\\Projetos C#\\Aulas\\WebApi8\\Services\\Autor\\AutorService.cs",
-              "RelativeToolTip": "Services\\Autor\\AutorService.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowCgAAAAAAAAAAAAAAA==",
+              "Title": "IAutorInterface.cs",
+              "DocumentMoniker": "D:\\Portifolio\\Projetos C#\\Aulas\\WebApi8\\Services\\Autor\\IAutorInterface.cs",
+              "RelativeDocumentMoniker": "Services\\Autor\\IAutorInterface.cs",
+              "ToolTip": "D:\\Portifolio\\Projetos C#\\Aulas\\WebApi8\\Services\\Autor\\IAutorInterface.cs",
+              "RelativeToolTip": "Services\\Autor\\IAutorInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T23:04:49.173Z",
+              "WhenOpened": "2025-02-28T23:05:07.958Z",
               "EditorCaption": ""
             }
           ]

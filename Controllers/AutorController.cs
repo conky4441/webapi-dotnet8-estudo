@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using WebApi8.Dto.Autor;
 using WebApi8.Models;
 using WebApi8.Services.Autor;
 
@@ -27,6 +28,13 @@ namespace WebApi8.Controllers
         public async Task<ActionResult<ResponseModel<AutorModel>>> BuscarAutorPorId(int idAutor)
         {
             var autor = await _autorInterface.BuscarAutorPorId(idAutor);
+            return Ok(autor);
+        }
+
+        [HttpPost("CriarAutor")]
+        public async Task<ActionResult<ResponseModel<List<AutorModel>>>> CriarAutor(AutorCriacaoDto autorCriacaoDto)
+        {
+            var autor = await _autorInterface.CriarAutor(autorCriacaoDto);
             return Ok(autor);
         }
     }
