@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{1367DD2D-9769-4464-AAFD-BE7E178909AC}|WebApi8.csproj|solutionrelative:controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1367DD2D-9769-4464-AAFD-BE7E178909AC}|WebApi8.csproj|d:\\portifolio\\projetos c#\\aulas\\webapi8\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1367DD2D-9769-4464-AAFD-BE7E178909AC}|WebApi8.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1367DD2D-9769-4464-AAFD-BE7E178909AC}|WebApi8.csproj|d:\\portifolio\\projetos c#\\aulas\\webapi8\\services\\autor\\autorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1367DD2D-9769-4464-AAFD-BE7E178909AC}|WebApi8.csproj|solutionrelative:services\\autor\\autorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1367DD2D-9769-4464-AAFD-BE7E178909AC}|WebApi8.csproj|d:\\portifolio\\projetos c#\\aulas\\webapi8\\services\\autor\\iautorinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1367DD2D-9769-4464-AAFD-BE7E178909AC}|WebApi8.csproj|solutionrelative:services\\autor\\iautorinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1367DD2D-9769-4464-AAFD-BE7E178909AC}|WebApi8.csproj|d:\\portifolio\\projetos c#\\aulas\\webapi8\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1367DD2D-9769-4464-AAFD-BE7E178909AC}|WebApi8.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IAutorInterface.cs",
               "DocumentMoniker": "D:\\Portifolio\\Projetos C#\\Aulas\\WebApi8\\Services\\Autor\\IAutorInterface.cs",
               "RelativeDocumentMoniker": "Services\\Autor\\IAutorInterface.cs",
@@ -42,19 +42,6 @@
               "IsPinned": true
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AutorController.cs",
-              "DocumentMoniker": "D:\\Portifolio\\Projetos C#\\Aulas\\WebApi8\\Controllers\\AutorController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AutorController.cs",
-              "ToolTip": "D:\\Portifolio\\Projetos C#\\Aulas\\WebApi8\\Controllers\\AutorController.cs",
-              "RelativeToolTip": "Controllers\\AutorController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T22:40:16.39Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
             },
@@ -64,7 +51,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "AutorController.cs",
+              "DocumentMoniker": "D:\\Portifolio\\Projetos C#\\Aulas\\WebApi8\\Controllers\\AutorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AutorController.cs",
+              "ToolTip": "D:\\Portifolio\\Projetos C#\\Aulas\\WebApi8\\Controllers\\AutorController.cs",
+              "RelativeToolTip": "Controllers\\AutorController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAMwBkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T22:40:16.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\Portifolio\\Projetos C#\\Aulas\\WebApi8\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -72,17 +72,18 @@
               "RelativeToolTip": "Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T23:27:21.295Z"
+              "WhenOpened": "2025-02-28T23:27:21.295Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AutorService.cs",
               "DocumentMoniker": "D:\\Portifolio\\Projetos C#\\Aulas\\WebApi8\\Services\\Autor\\AutorService.cs",
               "RelativeDocumentMoniker": "Services\\Autor\\AutorService.cs",
               "ToolTip": "D:\\Portifolio\\Projetos C#\\Aulas\\WebApi8\\Services\\Autor\\AutorService.cs",
               "RelativeToolTip": "Services\\Autor\\AutorService.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAACoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-28T23:04:49.173Z",
               "EditorCaption": ""

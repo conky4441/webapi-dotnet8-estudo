@@ -1,6 +1,32 @@
 [
   {
     "ContainingType": "WebApi8.Controllers.AutorController",
+    "Method": "BuscarAutorPorId",
+    "RelativePath": "api/Autor/BuscarAutorPorId/{idAutor}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idAutor",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WebApi8.Models.ResponseModel\u00601[[WebApi8.Models.AutorModel, WebApi8, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebApi8.Controllers.AutorController",
     "Method": "ListarAutores",
     "RelativePath": "api/Autor/ListarAutores",
     "HttpMethod": "GET",
