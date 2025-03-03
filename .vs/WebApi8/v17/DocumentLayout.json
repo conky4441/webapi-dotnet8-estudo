@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "D:\\Portifolio\\Projetos C#\\Aulas\\WebApi8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1367DD2D-9769-4464-AAFD-BE7E178909AC}|WebApi8.csproj|d:\\portifolio\\projetos c#\\aulas\\webapi8\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1367DD2D-9769-4464-AAFD-BE7E178909AC}|WebApi8.csproj|solutionrelative:controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1367DD2D-9769-4464-AAFD-BE7E178909AC}|WebApi8.csproj|d:\\portifolio\\projetos c#\\aulas\\webapi8\\services\\livro\\livroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1367DD2D-9769-4464-AAFD-BE7E178909AC}|WebApi8.csproj|solutionrelative:services\\livro\\livroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1367DD2D-9769-4464-AAFD-BE7E178909AC}|WebApi8.csproj|d:\\portifolio\\projetos c#\\aulas\\webapi8\\services\\autor\\iautorinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1367DD2D-9769-4464-AAFD-BE7E178909AC}|WebApi8.csproj|solutionrelative:services\\autor\\iautorinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1367DD2D-9769-4464-AAFD-BE7E178909AC}|WebApi8.csproj|d:\\portifolio\\projetos c#\\aulas\\webapi8\\dto\\vinculo\\autorvinculodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1367DD2D-9769-4464-AAFD-BE7E178909AC}|WebApi8.csproj|solutionrelative:dto\\vinculo\\autorvinculodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1367DD2D-9769-4464-AAFD-BE7E178909AC}|WebApi8.csproj|d:\\portifolio\\projetos c#\\aulas\\webapi8\\services\\autor\\autorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1367DD2D-9769-4464-AAFD-BE7E178909AC}|WebApi8.csproj|solutionrelative:services\\autor\\autorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1367DD2D-9769-4464-AAFD-BE7E178909AC}|WebApi8.csproj|d:\\portifolio\\projetos c#\\aulas\\webapi8\\dto\\autor\\editarautordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1367DD2D-9769-4464-AAFD-BE7E178909AC}|WebApi8.csproj|solutionrelative:dto\\autor\\editarautordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1367DD2D-9769-4464-AAFD-BE7E178909AC}|WebApi8.csproj|d:\\portifolio\\projetos c#\\aulas\\webapi8\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1367DD2D-9769-4464-AAFD-BE7E178909AC}|WebApi8.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1367DD2D-9769-4464-AAFD-BE7E178909AC}|WebApi8.csproj|d:\\portifolio\\projetos c#\\aulas\\webapi8\\dto\\livro\\livrocriacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1367DD2D-9769-4464-AAFD-BE7E178909AC}|WebApi8.csproj|solutionrelative:dto\\livro\\livrocriacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1367DD2D-9769-4464-AAFD-BE7E178909AC}|WebApi8.csproj|d:\\portifolio\\projetos c#\\aulas\\webapi8\\models\\autormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1367DD2D-9769-4464-AAFD-BE7E178909AC}|WebApi8.csproj|solutionrelative:models\\autormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1367DD2D-9769-4464-AAFD-BE7E178909AC}|WebApi8.csproj|d:\\portifolio\\projetos c#\\aulas\\webapi8\\models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1367DD2D-9769-4464-AAFD-BE7E178909AC}|WebApi8.csproj|solutionrelative:models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1367DD2D-9769-4464-AAFD-BE7E178909AC}|WebApi8.csproj|d:\\portifolio\\projetos c#\\aulas\\webapi8\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1367DD2D-9769-4464-AAFD-BE7E178909AC}|WebApi8.csproj|solutionrelative:controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1367DD2D-9769-4464-AAFD-BE7E178909AC}|WebApi8.csproj|d:\\portifolio\\projetos c#\\aulas\\webapi8\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1367DD2D-9769-4464-AAFD-BE7E178909AC}|WebApi8.csproj|solutionrelative:controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,66 +38,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LivroCriacaoDto.cs",
+              "DocumentMoniker": "D:\\Portifolio\\Projetos C#\\Aulas\\WebApi8\\Dto\\Livro\\LivroCriacaoDto.cs",
+              "RelativeDocumentMoniker": "Dto\\Livro\\LivroCriacaoDto.cs",
+              "ToolTip": "D:\\Portifolio\\Projetos C#\\Aulas\\WebApi8\\Dto\\Livro\\LivroCriacaoDto.cs",
+              "RelativeToolTip": "Dto\\Livro\\LivroCriacaoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T00:31:09.11Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\Portifolio\\Projetos C#\\Aulas\\WebApi8\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "D:\\Portifolio\\Projetos C#\\Aulas\\WebApi8\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T19:58:19.372Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EditarAutorDto.cs",
-              "DocumentMoniker": "D:\\Portifolio\\Projetos C#\\Aulas\\WebApi8\\Dto\\Autor\\EditarAutorDto.cs",
-              "RelativeDocumentMoniker": "Dto\\Autor\\EditarAutorDto.cs",
-              "ToolTip": "D:\\Portifolio\\Projetos C#\\Aulas\\WebApi8\\Dto\\Autor\\EditarAutorDto.cs",
-              "RelativeToolTip": "Dto\\Autor\\EditarAutorDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T19:30:19.719Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "AutorModel.cs",
               "DocumentMoniker": "D:\\Portifolio\\Projetos C#\\Aulas\\WebApi8\\Models\\AutorModel.cs",
               "RelativeDocumentMoniker": "Models\\AutorModel.cs",
               "ToolTip": "D:\\Portifolio\\Projetos C#\\Aulas\\WebApi8\\Models\\AutorModel.cs",
               "RelativeToolTip": "Models\\AutorModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T18:29:05.082Z",
+              "WhenOpened": "2025-03-03T00:29:09.363Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ResponseModel.cs",
-              "DocumentMoniker": "D:\\Portifolio\\Projetos C#\\Aulas\\WebApi8\\Models\\ResponseModel.cs",
-              "RelativeDocumentMoniker": "Models\\ResponseModel.cs",
-              "ToolTip": "D:\\Portifolio\\Projetos C#\\Aulas\\WebApi8\\Models\\ResponseModel.cs",
-              "RelativeToolTip": "Models\\ResponseModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "AutorVinculoDto.cs",
+              "DocumentMoniker": "D:\\Portifolio\\Projetos C#\\Aulas\\WebApi8\\Dto\\Vinculo\\AutorVinculoDto.cs",
+              "RelativeDocumentMoniker": "Dto\\Vinculo\\AutorVinculoDto.cs",
+              "ToolTip": "D:\\Portifolio\\Projetos C#\\Aulas\\WebApi8\\Dto\\Vinculo\\AutorVinculoDto.cs",
+              "RelativeToolTip": "Dto\\Vinculo\\AutorVinculoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T18:10:22.496Z"
+              "WhenOpened": "2025-03-03T00:28:54.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LivroService.cs",
+              "DocumentMoniker": "D:\\Portifolio\\Projetos C#\\Aulas\\WebApi8\\Services\\Livro\\LivroService.cs",
+              "RelativeDocumentMoniker": "Services\\Livro\\LivroService.cs",
+              "ToolTip": "D:\\Portifolio\\Projetos C#\\Aulas\\WebApi8\\Services\\Livro\\LivroService.cs",
+              "RelativeToolTip": "Services\\Livro\\LivroService.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAwwE4AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T00:21:26.29Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -107,36 +100,44 @@
               "RelativeDocumentMoniker": "Services\\Autor\\AutorService.cs",
               "ToolTip": "D:\\Portifolio\\Projetos C#\\Aulas\\WebApi8\\Services\\Autor\\AutorService.cs",
               "RelativeToolTip": "Services\\Autor\\AutorService.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAgwFoAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T23:04:49.173Z",
+              "WhenOpened": "2025-03-03T00:21:24.797Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "AutorController.cs",
               "DocumentMoniker": "D:\\Portifolio\\Projetos C#\\Aulas\\WebApi8\\Controllers\\AutorController.cs",
               "RelativeDocumentMoniker": "Controllers\\AutorController.cs",
               "ToolTip": "D:\\Portifolio\\Projetos C#\\Aulas\\WebApi8\\Controllers\\AutorController.cs",
               "RelativeToolTip": "Controllers\\AutorController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAnwC4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCAAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T22:40:16.39Z",
+              "WhenOpened": "2025-03-03T00:11:40.439Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IAutorInterface.cs",
-              "DocumentMoniker": "D:\\Portifolio\\Projetos C#\\Aulas\\WebApi8\\Services\\Autor\\IAutorInterface.cs",
-              "RelativeDocumentMoniker": "Services\\Autor\\IAutorInterface.cs",
-              "ToolTip": "D:\\Portifolio\\Projetos C#\\Aulas\\WebApi8\\Services\\Autor\\IAutorInterface.cs",
-              "RelativeToolTip": "Services\\Autor\\IAutorInterface.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABXAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "LivroController.cs",
+              "DocumentMoniker": "D:\\Portifolio\\Projetos C#\\Aulas\\WebApi8\\Controllers\\LivroController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LivroController.cs",
+              "ToolTip": "D:\\Portifolio\\Projetos C#\\Aulas\\WebApi8\\Controllers\\LivroController.cs",
+              "RelativeToolTip": "Controllers\\LivroController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDkAAABtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T23:05:07.958Z",
+              "WhenOpened": "2025-03-02T22:40:16.016Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             }
           ]
         }
