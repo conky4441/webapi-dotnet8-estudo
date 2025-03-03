@@ -608,7 +608,7 @@
             "nullable": true
           },
           "autor": {
-            "$ref": "#/components/schemas/AutorModel"
+            "$ref": "#/components/schemas/AutorVinculoDto"
           }
         },
         "additionalProperties": false
